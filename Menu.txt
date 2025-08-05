@@ -1,0 +1,12 @@
+1
+Coffee
+100
+2
+Hot Mocha Grande
+1500
+3
+Americano latte
+1900
+4
+French Fries
+100

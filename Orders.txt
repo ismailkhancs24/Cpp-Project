@@ -1,0 +1,6 @@
+
+--- New Order ---
+Americano latte x5 = Rs. 9500
+Hot Mocha Grande x5 = Rs. 7500
+Total: Rs. 17000
+
